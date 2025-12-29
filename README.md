@@ -1,4 +1,4 @@
-# SMS Spam Detection Project 📩
+# SMS Spam Detection Project 
 
 A Machine Learning project that compares three variants of the Naive Bayes algorithm to classify SMS messages as Spam or Ham (legitimate).
 
@@ -28,6 +28,8 @@ This project builds a model to automatically detect spam messages. The workflow 
 
 ## Installation & Usage
 
+##Thanks for reading
+
 ### Install Dependencies
 ```bash
-pip install pandas numpy matplotlib seaborn nltk scikit-learn wordcloud
+pip install pandas numpy matplotlib seaborn nltk scikit-learn wordcloud,steamlit
